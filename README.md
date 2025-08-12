@@ -40,20 +40,21 @@
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv-tech-cmd&show_icons=true&locale=en&layout=compact" alt="atharv-tech-cmd" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharv-tech-cmd&show_icons=true&locale=en" alt="atharv-tech-cmd" />
-</p>
-
-<!-- GitHub Streak Stats -->
+<h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-tech-cmd&theme=default" alt="atharv-tech-cmd" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv-tech-cmd&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<!-- Contributions Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharv-tech-cmd&theme=default" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atharv-tech-cmd&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<h3 align="center">🔥 Streak Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-tech-cmd&theme=default" alt="GitHub Streak" />
+</p>
+
+<h3 align="center">📈 Contribution Graph:</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharv-tech-cmd&theme=github" alt="Contribution Graph" />
 </p>
