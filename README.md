@@ -48,6 +48,12 @@
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharv-tech-cmd&show_icons=true&locale=en" alt="atharv-tech-cmd" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-tech-cmd&" alt="atharv-tech-cmd" />
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-tech-cmd&theme=default" alt="atharv-tech-cmd" />
+</p>
+
+<!-- Contributions Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharv-tech-cmd&theme=default" alt="Contribution Graph" />
 </p>
