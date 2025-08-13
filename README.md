@@ -1,68 +1,41 @@
-<h1 align="center">Hi 👋, I'm Atharv Verma</h1>
-<h3 align="center">A Passionate Computer Science Student exploring the world of web development</h3>
-<img src="https://attentioninsight.com/wp-content/uploads/2024/04/animation.jpeg" alt="this is the image of animation web development" width="600">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=atharv-tech-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="atharv-tech-cmd" /> 
-</p>
-
-- 📫 How to reach me **atharv.verma.official60@gmail.com**  
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/atharv-verma-338795371" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharv-verma-338795371" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/@atharv_verma_of1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@atharv_verma_of1" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a> 
-</p>
+<!-- Banner Image -->
+<img src="https://attentioninsight.com/wp-content/uploads/2024/04/animation.jpeg" alt="Coding Animation" width="100%" />
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv-tech-cmd&show_icons=true&locale=en&layout=compact" alt="atharv-tech-cmd" />
-</p>
+## 👋 Hello World, I'm Atharv Verma
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharv-tech-cmd&show_icons=true&locale=en" alt="atharv-tech-cmd" />
-</p>
+### 📌 About Me  
+- 🎓 **Second-year BTech CSE student**  
+- 💻 Passionate about **web development & cybersecurity**  
+- 🚀 Currently exploring **MERN stack & advanced Java**  
+- 🛠 I enjoy solving **real-world problems using code**  
 
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-tech-cmd&theme=default" alt="atharv-tech-cmd" />
-</p>
+---
 
-<!-- Contribution Summary -->
-<h3 align="center">📊 GitHub Contribution Stats</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-tech-cmd&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&sideLabels=FFFFFF&currStreakLabel=000000" alt="GitHub Streak" />
-</p>
+## 🛠 Skills & Technologies  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
-<p align="center">
-  <b>Total Contributions:</b> <!-- This will update automatically in streak stats image -->
-  <br>
-  <b>Current Streak:</b> <!-- Shown above in image -->
-  <br>
-  <b>Longest Streak:</b> <!-- Shown above in image -->
-</p>
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharv-verma-338795371)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@atharv_verma_of1)  
+📧 **Email:** atharv.verma.official60@gmail.com  
+
+---
+
+## 📊 GitHub Stats  
+
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-tech-cmd&layout=compact&theme=dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharv-tech-cmd&show_icons=true&theme=dark) |
+| --- | --- |
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atharv-tech-cmd&theme=dark)
+
+---
+
+> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
