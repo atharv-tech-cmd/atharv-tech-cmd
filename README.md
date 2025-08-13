@@ -7,7 +7,7 @@
 
 ### 📌 About Me  
 - 🎓 **Second-year BTech CSE student**  
-- 💻 Passionate about **web development & cybersecurity**  
+- 💻 Passionate about **web development**  
 - 🚀 Currently exploring **MERN stack & advanced Java**  
 - 🛠 I enjoy solving **real-world problems using code**  
 
